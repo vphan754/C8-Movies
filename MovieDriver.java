@@ -36,9 +36,6 @@ public class MovieDriver
        for (int i=0 ; i<highestRated.size() ; i++)
            System.out.println(highestRated.get(i));
        
-       
-
-        
     }
     
     
